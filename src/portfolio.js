@@ -22,8 +22,8 @@ const projects = [
     description:
       "A fullstack web application designed to automate data collection through an in-house hearing aid calibration library. ",
     stack: ["JavaScript", "VueJS", "Rust", "MongoDB"],
-    sourceCode: "https://github.com",
-    livePreview: "https://github.com",
+    // sourceCode: "https://github.com",
+    // livePreview: "https://github.com",
   },
   {
     name: "Offline Survey App",
@@ -31,8 +31,8 @@ const projects = [
     description:
       "Modified an existing surveying application to allow for seamless offline surveying capabilities. ",
     stack: ["PHP", "JavaScript", "SQL"],
-    sourceCode: "https://github.com",
-    livePreview: "https://github.com",
+    // sourceCode: "https://github.com",
+    // livePreview: "https://github.com",
   },
   {
     name: "Parcade",
@@ -40,8 +40,8 @@ const projects = [
     description:
       "An application that provides users with a platform to host and rent driveways.",
     stack: ["JavaScript", "ReactJS", "AWS", "Capacitor"],
-    sourceCode: "https://github.com",
-    livePreview: "https://github.com",
+    // sourceCode: "https://github.com",
+    // livePreview: "https://github.com",
   },
   {
     name: "Home Security System",
@@ -50,7 +50,7 @@ const projects = [
       "Modular home security system using C and ESP32 development boards running RTOS",
     stack: ["C", "FreeRTOS", "ESP32"],
     sourceCode: "https://github.com/jmutton2/pi_sec",
-    livePreview: "https://github.com",
+    // livePreview: "https://github.com",
   },
   {
     name: "Baremetal Kubernetes Infrastructure",
