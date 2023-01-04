@@ -18,8 +18,6 @@ const App = () => {
       <About />
       <Projects />
       <Skills />
-      {/* <Contact /> */}
-      <ScrollToTop />
       <Footer />
     </div>
   );
